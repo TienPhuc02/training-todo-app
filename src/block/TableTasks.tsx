@@ -423,7 +423,7 @@ const TableTasks = () => {
       <Table
         columns={columns}
         dataSource={tasks}
-        scroll={{ x: 1500, y: 300 }}
+        scroll={{ x: 1500, y: 500 }}
       />
     </>
   );

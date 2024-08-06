@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
 
-# Git Clone 
-# npm i
-# npm run dev
+git clone 
+npm i
+npm run dev
